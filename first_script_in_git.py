@@ -11,17 +11,6 @@ for i in range(n,0,-1):
         print('* ',end="")
     print('')
 '''
-
-# chotnoe ne chotnoe
-#numbers = (1, 2, 3, 4, 5, 6, 7, 8)
-#count_even=0
-#count_add=0
-#for i in numbers:
-#	
-#	print(count_even)
-#	print(count_add)
-
-# dva sposoba dileniya chisel na 7 i 5
 '''
 nl=[]   # 1 
 for x in range(150, 270):
